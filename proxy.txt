@@ -1,0 +1,13 @@
+<html>
+<head><title>projet du groupe </title></head>
+<body>
+<marquee><h1><font color="red">Celle-ci est notre page officielle</h1></marquee>
+<center>Pour plus de question consulter notre adresse gmail qui s'affiche juste en bas </center>
+<center> Nous serons à votre disposition pour des informations consernant le site</center>
+<center>   l'ensemble des dispositions prise pour la réalisation de ce projet</center>
+<center>    Celle-ci à été réalisé dans le cadre du projet DevOps </center>
+<center>     <a href="le gmail du groupe">groupedevops05@gmail.com</a></center>
+<center><h1> welcome to site proxy </h1></center>
+</body>
+</html>
+(http://0.0.0.0:8000/)
